@@ -7,3 +7,9 @@
 
 # suitecrm
 SuiteCRM
+
+
+## Quick deployment to cloud
+##### Amazon AWS, Digital Ocean, Hetzner and others
+[<img src="https://img.shields.io/badge/quick%20deploy|7.1.12-%40try.direct-brightgreen.svg">](https://try.direct/server/user/deploy/InN1aXRlY3JtNzExMnw2fDki.EAoFeA.3WNRC2lxuX9N-TOHXOR4H9Ae-xA/)
+
